@@ -6,8 +6,8 @@ namespace Task2
     {
         static void Main(string[] args)
         {
-            byte small;
-            short distance;
+            byte smallNumber;
+            short distanceOfRoad;
             int number;
             long bigNumber;
             decimal power;
